@@ -16,5 +16,10 @@ namespace KT_CCPTPM
         {
             InitializeComponent();
         }
+
+        private void btnlogin_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
